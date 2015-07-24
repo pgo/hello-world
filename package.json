@@ -1,0 +1,22 @@
+{
+  "name": "@pgo/how-to-npm",
+  "version": "1.0.0",
+  "description": "This is my package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgo/hello-world.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "PGO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgo/hello-world/issues"
+  },
+  "homepage": "https://github.com/pgo/hello-world#readme"
+}
