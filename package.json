@@ -4,7 +4,7 @@
   "description": "This is my package.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/pgo/hello-world/issues"
   },
-  "homepage": "https://github.com/pgo/hello-world#readme"
+  "homepage": "https://github.com/pgo/hello-world#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
