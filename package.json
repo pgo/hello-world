@@ -19,7 +19,5 @@
     "url": "https://github.com/pgo/hello-world/issues"
   },
   "homepage": "https://github.com/pgo/hello-world#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
